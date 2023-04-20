@@ -1,0 +1,22 @@
+{
+  "name": "seleniumtypewriter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strayfade/SeleniumTypewriter.git"
+  },
+  "author": "Strayfade",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Strayfade/SeleniumTypewriter/issues"
+  },
+  "homepage": "https://github.com/Strayfade/SeleniumTypewriter#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.8.2"
+  }
+}
